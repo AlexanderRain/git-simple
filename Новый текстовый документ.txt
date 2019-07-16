@@ -1,0 +1,4 @@
+merge conflict simple
+=====================
+master commit
+=====================
