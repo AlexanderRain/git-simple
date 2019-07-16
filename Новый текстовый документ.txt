@@ -3,11 +3,15 @@ merge conflict simple
 master commit
 =====================
 sdalfkj;sdf;l
-=======
+=====================
 new user
-=======
+=====================
 my simple change
 =====================
+<<<<<<< HEAD
 one more changes here 
 just one more
+=====================
+=======
+conflict commit
 =====================
