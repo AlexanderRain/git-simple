@@ -2,3 +2,5 @@ merge conflict simple
 =====================
 master commit
 =====================
+
+new user
