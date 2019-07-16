@@ -2,5 +2,7 @@ merge conflict simple
 =====================
 master commit
 =====================
+sdalfkj;sdf;l
+=======
 
 new user
