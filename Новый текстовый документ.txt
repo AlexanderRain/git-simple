@@ -2,3 +2,5 @@ merge conflict simple
 =====================
 master commit
 =====================
+my simple change
+=====================
