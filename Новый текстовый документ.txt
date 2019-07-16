@@ -9,5 +9,8 @@ new user
 my simple change
 =====================
 Hello, World!
-
+=====================
+new change
+=====================
+conflict commit
 =====================
